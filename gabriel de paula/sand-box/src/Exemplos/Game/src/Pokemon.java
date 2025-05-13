@@ -1,4 +1,4 @@
-package pokemon;
+package Exemplos.Game.src;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -51,8 +51,5 @@ public class Pokemon {
    public int getEspecial() {
     return this.especial;
    }
-
-
-    
 
 }

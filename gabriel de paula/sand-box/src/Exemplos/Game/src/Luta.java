@@ -1,9 +1,8 @@
-package pokemon;
+package Exemplos.Game.src;
 
 import java.util.Random;
 
 public class Luta {
-
     private Pokemon pokemon1;
     private Pokemon pokemon2;
     private Pokemon vencedor;
